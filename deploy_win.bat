@@ -6,7 +6,7 @@ git commit -m %arg1%
 
 git push
 
-docker-compose up
+docker-compose-win up
 
 xcopy /S /I /E /Y .\_site\ ..\sanfyin.github.io
 
