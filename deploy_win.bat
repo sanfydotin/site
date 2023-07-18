@@ -8,9 +8,9 @@ git push
 
 docker-compose-win up
 
-xcopy /S /I /E /Y .\_site\ ..\sanfyin.github.io
+xcopy /S /I /E /Y .\_site\ ..\sanfydotin.github.io
 
-cd ..\sanfyin.github.io
+cd ..\sanfydotin.github.io
 
 git add .
 
